@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj": {}
+    "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj": {
+    "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj",
         "projectName": "LinkedListProblemTemplate",
-        "projectPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj",
+        "projectPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate.csproj",
         "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\obj\\",
+        "outputPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Final_Exam\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\LinkedListProblemTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config",

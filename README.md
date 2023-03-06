@@ -1,4 +1,4 @@
-# LinkedListProblem
+# Linked List Problem
 This project is a representative of internet search history. In which we are able to traverse forwards and backwards on our list to visit different sites. We use various methods to add, remove, clear, etc to our linked list. We are able to represent our search history with linked lists and traverse through our search history.
 
 ## Linked List Methods
